@@ -269,8 +269,8 @@ body {
    }
   
    .card:hover {
-    background-color: #f8f9fa; /* Light background on hover */
-    color: black;
+    background-color: #1c1c1c; /* Light background on hover */
+    color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow on hover */
   }
   
